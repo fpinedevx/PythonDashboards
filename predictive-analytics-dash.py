@@ -1321,3 +1321,4 @@ def render_tab(tab, year, quarter, month, date_preset, regions, categories, segm
 
 if __name__ == "__main__":
     app.run(debug=True)
+
